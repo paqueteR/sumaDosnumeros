@@ -1,0 +1,10 @@
+Package: sumaDosnumeros
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1
+Date: 2015-12-24
+Author: Fabio Delgado
+Maintainer: Fabio Delgado <netfdcaero@hotmail.com>
+Description: More about what it does (maybe more than one line)
+License: GPL
+LazyData: TRUE
